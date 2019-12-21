@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rbFriends/static/css/main.2dd60e34.chunk.css",
+    "main.js": "/rbFriends/static/js/main.6a70f0c7.chunk.js",
+    "main.js.map": "/rbFriends/static/js/main.6a70f0c7.chunk.js.map",
+    "runtime-main.js": "/rbFriends/static/js/runtime-main.b14c9bc2.js",
+    "runtime-main.js.map": "/rbFriends/static/js/runtime-main.b14c9bc2.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/rbFriends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.4174fdd6.chunk.js": "/rbFriends/static/js/2.4174fdd6.chunk.js",
+    "static/js/2.4174fdd6.chunk.js.map": "/rbFriends/static/js/2.4174fdd6.chunk.js.map",
+    "index.html": "/rbFriends/index.html",
+    "precache-manifest.b7b86b895c0cba7b6d637379ff3618e6.js": "/rbFriends/precache-manifest.b7b86b895c0cba7b6d637379ff3618e6.js",
+    "service-worker.js": "/rbFriends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/rbFriends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.2dd60e34.chunk.css.map": "/rbFriends/static/css/main.2dd60e34.chunk.css.map",
+    "static/js/2.4174fdd6.chunk.js.LICENSE": "/rbFriends/static/js/2.4174fdd6.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b14c9bc2.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.4174fdd6.chunk.js",
+    "static/css/main.2dd60e34.chunk.css",
+    "static/js/main.6a70f0c7.chunk.js"
+  ]
+}
